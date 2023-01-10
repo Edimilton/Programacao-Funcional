@@ -1,5 +1,5 @@
 # Programacao-Funcional-Haskell
-Estudo das técnicas e métodos de Programação Funcional utilizando a linguagem de programação Haskell aplicada em projetos práticos ministrados na disciplina de Programação Funcional.
+Indução Matemática. Resolução de problemas por indução. Paradigma funcional. Expressões. Valores. Funções e tipos. Tipos primitivos de dados e tipos derivados. Recursividade. Definições por casamento de padrão. Solução de problemas de baixa complexidade. Polimorfismo paramétrico e funções de alta ordem. Avaliação de expressões lazy e eager. Programação com listas. Tipos algébricos. Raciocínio com programas.
 
 Projeto - Parte 1: Compreensões e funções básicas sobre listas e tuplas.
 
